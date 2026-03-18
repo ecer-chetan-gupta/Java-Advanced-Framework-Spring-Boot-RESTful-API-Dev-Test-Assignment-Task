@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\sw-dev-test-java\java_advanced\Serialization\.metadata\.plugins\org.eclipse.jdt.core
+3623959451.index
+166916122.index
+3617278337.index
+4025489775.index
+1865797976.index
+1946087201.index
